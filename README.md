@@ -52,3 +52,5 @@ PERMISOS:
 -	Uso privado
 
 Enlace al video de demostracion de funcionamiento de aplicacion: https://drive.google.com/file/d/1lYHMzTRDc9qpa-EpNieQfUTfHqBsWsgj/view?usp=sharing
+
+Enlace MANUAL DE USUARIO: https://drive.google.com/file/d/1l6ZnEiuDV3IGAHWUNj0loeTUl68ToxTh/view?usp=sharing
