@@ -39,7 +39,8 @@ correspondientes al Dui.
 Guía de instalación:
 •	 Para poder utilizar esta herramienta y crear cambios en ella se debe contar con una máquina que contenga sistema operativo Windows 10 de 64bits y en él instalado la plataforma .Netframework, y se debe contar con el visual studio para poder editar el codigo del lenguaje C#.
 
-Autores 
+Autores: 
+GRUPO TEORICO 04(G04T)
 -	Alejandro Isaac Huezo Ascencio
 -	Ángel Daniel Romero Hernández
 -	Diego Eduardo Herrera Vidal
@@ -53,4 +54,8 @@ PERMISOS:
 
 Enlace al video de demostracion de funcionamiento de aplicacion: https://drive.google.com/file/d/1lYHMzTRDc9qpa-EpNieQfUTfHqBsWsgj/view?usp=sharing
 
+Editado 11/5/21 para entrega final del proyecto:
+
 Enlace MANUAL DE USUARIO: https://drive.google.com/file/d/1l6ZnEiuDV3IGAHWUNj0loeTUl68ToxTh/view?usp=sharing
+
+Enlace del video de demostracion de uso de la aplicacion y  muestra del codigo: https://udbedu-my.sharepoint.com/:v:/r/personal/hv211184_alumno_udb_edu_sv/Documents/Video%20demostraci%C3%B3n%20proyecto.mp4?csf=1&web=1&e=ncspMf
